@@ -1,3 +1,3 @@
 # CI
 
-## This Repo will contain CI/CD related code
+## Continuous Deliver using docker, jenkins and ansible
